@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vw+iex8InVdP2ixwAHKdLjgHSZ33wRkrnGTUD4FYy7K545rlk5XdCbjghLTTYGBcN90JZM8HX87ZPNbwLoWdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flor\\source\\repos\\Examen Simulacion\\Examen Simulacion\\Examen Simulacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
